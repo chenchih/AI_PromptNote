@@ -12,23 +12,21 @@ Note: I mention each source, please refer to Reference for the URL for more deta
 
 - ex1
 ```
-restyle image in studio ghibli style, keep all details
+restyle image in Studio Ghibli style, keep all details
 can you please turn this into ghibli style
 create Ghibli style image 
 ```
 - ex2
 ```
-convert this photo to studio ghibli style anime
+Convert this photo to Studio Ghibli-style anime
 Show me in Studio Ghibli style
 create ghibli style portrait of this image
 ```
 
 ## Gemini Prompt ENG
 
-
-
 ### analyze upload video 
-You can let AI to analyze a video and give you the style of the video's prompt. After you have it you can generate realted video accordingto the style
+You can let AI analyze a video and give you the style of the video's prompt. After you have it you can generate realted video accordingto the style
 1. Access Gemini
 2. Upload for Gemini to analyze as below prompt 
 ```
@@ -41,7 +39,7 @@ Please analyze the uploaded video file. Identify the visual style, subject matte
 
 ### Create Small Game 
 1. Access Gemini
-2. Run this prompt to discuss which english vocab game 
+2. Run this prompt to discuss which English vocab game 
 ```
 給我一點建議,如果要用canvas做一些學習英文單子以互動的又兼顧學習的遊戲,可以做些什麼?
 ```
@@ -63,8 +61,8 @@ I think you and also add this in step3, the reason why I didn't add it is if i a
 ![GameAI](img/generateGame_output.png)
 
 > Source: 大有牧森 Austin Chou(@austinchou888)
-
-### How to write prompt with MD
+---
+### How to write a prompt with MD
 大家如何要下好提示詞我們需要用MarkDown 語法來表示，讓AI更好理解。
 
 #### Syntax 語法
@@ -153,7 +151,7 @@ When run this prompt before execute will confirm with me first
 ```
 
 > source: AI粟米粒(@ai_niblet)
-
+---
 ### Summary 終結文章
 
 - ex1: summary by text
@@ -170,7 +168,7 @@ Alternative method is use this on notebooklm
 https://youtu.be/XXXXXXX
 請幫我把影片的重點歸納總結
 ```
-
+---
 ### Create Slide
 
 - ex1:企劃書PPT簡報
@@ -192,18 +190,19 @@ https://www.youtube.com/XXXXX
 請提取影片重點,並整理成5張投影片的中文簡報內容。
 ```
 > source: AI粟米粒(@ai_niblet)
-
+---
 ### Create website 
 
 - ex1: 店精美網頁
 ```
 製作一個上海靜安寺附近的餛飩店精美網頁
 ```
-
+---
 ### 動畫
 ```
 將光合作用與二氧化碳循環的流程製作成 SVG 動畫。
 ```
+---
 ### 生圖
 
 - ex1
@@ -227,16 +226,19 @@ or
 ```
 請製作一張繁體中文圖解,解釋什麼是梅納反應
 ```
-
+---
 ### Schedule 
 需要PRO才會自動生新聞
 ```
 請每天早上8:10提供我一篇關於NotebookLM在教學上的應用案例新聞
 ```
 
-
+---
 ## Gemini Music 
 
+TBD
+
+---
 ## Gems
 
 ### 提示詞生成器
