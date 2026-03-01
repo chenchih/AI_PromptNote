@@ -270,7 +270,7 @@ There are couple of method I will show as below:
 You just have to upload your pdf and convert to ptt which allow to edit the slide
 - [DeckEdit](https://deckedit.com/zh-Hant)
 - [notebooklm.10xboost](https://notebooklm.10xboost.org) : 5 times monthly download for free account
-
+- [EditBanana](https://editbanana.com/editor)
 > source: @inspiredcanvas_m
  
 #### Method2 Canvas (paid)
@@ -287,7 +287,7 @@ Note it should grab and edit the text.
 #### Method3 Gemmi to do it 
 
 1. upload image to gemini
-2. 
+2. Add prompt
 ```
 重畫一張一樣的,只是移除標題文字"xxxxx",其他不變
 ```
